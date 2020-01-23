@@ -12,6 +12,8 @@ python img2fmem.py game.png 6 mem
 
 Then, create a Vivado project for the Nexys-4 DDR and generate the bitstream :smile:
 
+![test](./docs/result.png)
+
 ## References
 
 - https://github.com/WillGreen/timetoexplore (contains some basics on the VGA format, see the Readme file)
