@@ -10,7 +10,7 @@ mv test/game.png .
 python img2fmem.py game.png 6 mem
 ```
 
-Then, create a Vivado project for the Nexys-4 DDR and generate the bitstream :smile:
+Then, create a Vivado project for the Nexys-4 DDR and generate the bitstream :smile: (the BTNC button needs to be pushed)
 
 ![test](./docs/result.png)
 
